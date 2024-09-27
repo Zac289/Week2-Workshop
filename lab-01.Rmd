@@ -1,6 +1,6 @@
 ---
 title: "Lab 01 - UK Attractions"
-author: "Zixiang Qian "
+author: "Zixiang Qian1 "
 date: "`r Sys.Date()`"
 output: html_document
 ---
